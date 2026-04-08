@@ -1,0 +1,29 @@
+.kotak{
+	max-width:500px;
+	background:lightblue;
+	padding:20px;
+	border-radius:6px;
+	margin: auto;
+}
+label{
+	display:block;
+	margin-top:10px;
+	font-weight:bold;
+}
+.kotak2{
+	margin-top:20px;
+	padding:10px;
+	background-color:white;
+	border-radius:8px;
+	font-weight:bold;
+	white-space:pre-line;
+}
+button{
+	cursor:pointer;
+	background-color: lightyellow;
+	border:none;
+	padding: 5px;
+}
+button:hover{
+	color: white;
+	background-color:black;
